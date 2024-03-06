@@ -390,7 +390,7 @@ body {
 
    /* About section start */
    .about{
-    height: 85vh;
+    height: 90vh;
    
    }
    .about h1{
@@ -409,10 +409,11 @@ body {
     width: 40vw;
     
     /* border: 2px solid black; */
-    background-color: yellow;
+    /* background-color: yellow; */
     margin: 0vh;
     margin-top: 2vh;
     margin-left: 3vw;
+    margin-right: 2vw;
     margin-bottom: 2vh;
     /* margin-right: 7vw; */
 
@@ -421,8 +422,8 @@ body {
   .product1-text h2{
     font-size: medium;
     margin-top: 0;
-    margin-left: 0.4vw;
-    background-color: blue;
+    margin-left: 7vw;
+    /* background-color: blue; */
   }
   .box1 button{
     display: none;
@@ -435,17 +436,46 @@ body {
   /* overflow: hidden; Ensures the content does not spill outside the div */ 
   }
   .product1{
-    background-color: green;
+    /* background-color: green; */
     width: 40vw;
     height: 43vh;
     
+    
+  }
+  .productone{
     background-image: url('https://static.wixstatic.com/media/45d10e_b35e4713f3524a1d818de736bb4765b2~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/45d10e_b35e4713f3524a1d818de736bb4765b2~mv2.jpg'); 
   background-position: center; /* Center the background image */
   background-size: cover; /* Cover the entire div without losing aspect ratio */
   overflow: hidden; /* Ensures the content does not spill outside the div */
   }
   .product2{
-    /* background-image: url('https://static.wixstatic.com/media/45d10e_b35e4713f3524a1d818de736bb4765b2~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/45d10e_b35e4713f3524a1d818de736bb4765b2~mv2.jpg'); Replace 'your-image-url.jpg' with your image path */
+    background-image: url('https://static.wixstatic.com/media/45d10e_15641be40e0c43d89f5426f8949b51bd~mv2.jpg/v1/fill/w_500,h_500,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/45d10e_15641be40e0c43d89f5426f8949b51bd~mv2.jpg'); 
+  background-position: center; /* Center the background image */
+  background-size: cover; /* Cover the entire div without losing aspect ratio */
+  overflow: hidden; /* Ensures the content does not spill outside the div */
+  }
+  .product3{
+    background-image: url('https://static.wixstatic.com/media/45d10e_3c8908475cb04049a7341efbc73f6a73~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/45d10e_3c8908475cb04049a7341efbc73f6a73~mv2.jpg'); 
+  background-position: center; /* Center the background image */
+  background-size: cover; /* Cover the entire div without losing aspect ratio */
+  overflow: hidden; /* Ensures the content does not spill outside the div */
+  }
+  .product4{
+    
+    /* background-image: url('https://static.wixstatic.com/media/45d10e_15641be40e0c43d89f5426f8949b51bd~mv2.jpg/v1/fill/w_500,h_500,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/45d10e_15641be40e0c43d89f5426f8949b51bd~mv2.jpg');  */
+    background-image: url('https://static.wixstatic.com/media/45d10e_1d14719f23fa4277bddd33220562c678~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/45d10e_1d14719f23fa4277bddd33220562c678~mv2.jpg');
+  background-position: center; /* Center the background image */
+  background-size: cover; /* Cover the entire div without losing aspect ratio */
+  overflow: hidden; /* Ensures the content does not spill outside the div */
+  }
+  .product5{
+    background-image: url('https://static.wixstatic.com/media/45d10e_9e18a8d563fc4774a0b917d7f5e07ff6~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/45d10e_9e18a8d563fc4774a0b917d7f5e07ff6~mv2.jpg');
+  background-position: center; /* Center the background image */
+  background-size: cover; /* Cover the entire div without losing aspect ratio */
+  overflow: hidden; /* Ensures the content does not spill outside the div */
+  }
+  .product6{
+    background-image: url('https://static.wixstatic.com/media/45d10e_45e21af15e5a4e2fa81bc324b0c51cbf~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/45d10e_45e21af15e5a4e2fa81bc324b0c51cbf~mv2.jpg');
   background-position: center; /* Center the background image */
   background-size: cover; /* Cover the entire div without losing aspect ratio */
   overflow: hidden; /* Ensures the content does not spill outside the div */
